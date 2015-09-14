@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FancyCoverFlow"><attr format="float" name="unselectedAlpha"/><attr format="float" name="unselectedSaturation"/><attr format="float" name="unselectedScale"/><attr format="integer" name="maxRotation"/><attr format="float" name="scaleDownGravity"/><attr format="integer" name="actionDistance"><enum name="auto" value="2147483647"/></attr></declare-styleable>
+    <!-- From: file:/C:/Android/Library/android-education-project/FancyCoverFlowExample1/fancyCoverFlowExample/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="mainActivityListItemHeight">48dp</dimen>
+    <dimen name="mainActivityListItemPadding">16dp</dimen>
+    <!-- From: file:/C:/Android/Library/android-education-project/FancyCoverFlowExample1/fancyCoverFlowExample/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="activity_label_inflate_xml">XML Inflate Example</string>
+    <string name="activity_label_simple">Simple Example</string>
+    <string name="activity_label_viewgroup">ViewGroup Example</string>
+    <string name="activity_label_viewgroupreflection">ViewGroup with Reflection</string>
+    <string name="app_name">FancyCoverFlow</string>
+    <!-- From: file:/C:/Android/Library/android-education-project/FancyCoverFlowExample1/fancyCoverFlowExample/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="FancyCoverFlowTheme" parent="android:Theme.Light"/>
+</resources>
